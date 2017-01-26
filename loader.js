@@ -1,3 +1,4 @@
+'use strict';
 const gql = require('./');
 
 // Takes `source` (the source GraphQL query string)
